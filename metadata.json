@@ -1,0 +1,6 @@
+{
+  "name": "Tipos de textos — Տեքստերի տեսակները",
+  "description": "Իսպաներենի քննության նախապատրաստություն (7-րդ դասարան) — Տեքստերի տեսակներ, վարժություններ, ինտերակտիվ թարգմանություններ և պատասխաններ։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
